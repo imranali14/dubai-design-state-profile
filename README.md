@@ -36,4 +36,11 @@ Then open http://localhost:3000
 - Vite
 - Optional: TailwindCSS (for utility classes)
 
+## Design to Code Summary
+The layout was inspired by government design simplicity — centered white card with clean form elements. 
+Inputs have consistent spacing, focus states, and clear validation. 
+Accessibility is ensured by semantic HTML, label associations, and sufficient color contrast. 
+Responsive behavior was built mobile-first using Tailwind CSS.
+
+
 
