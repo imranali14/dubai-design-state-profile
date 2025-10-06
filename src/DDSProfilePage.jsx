@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import "./index.css";
 export default function DDSProfilePage() {
   const [formData, setFormData] = useState({
     fullName: "",
