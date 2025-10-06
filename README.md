@@ -15,7 +15,7 @@ A simple, accessible, and responsive profile page built with React and Vite.
 
 ### 1. Clone or download
 ```bash
-git clone https://github.com/yourusername/dubai-design-state-profile.git
+git clone https://github.com/imranali14/dubai-design-state-profile.git
 cd dubai-design-state-profile
 ```
 
@@ -29,12 +29,11 @@ npm install
 npm run dev
 ```
 
-Then open http://localhost:5173
+Then open http://localhost:3000
 
 ## 🧩 Technologies
 - React 18
 - Vite
 - Optional: TailwindCSS (for utility classes)
 
-## 📄 License
-MIT
+
